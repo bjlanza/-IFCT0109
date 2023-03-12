@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcyberdocs=self.webpackChunkcyberdocs||[]).push([[713],{3457:e=>{e.exports=JSON.parse('[{"label":"ciberseguridad","permalink":"/blog/tags/ciberseguridad","count":2},{"label":"blog","permalink":"/blog/tags/blog","count":2},{"label":"documentaci\xf3n","permalink":"/blog/tags/documentacion","count":1}]')}}]);

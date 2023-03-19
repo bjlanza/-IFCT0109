@@ -9,9 +9,9 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
         <item>
-            <title><![CDATA[Long Blog Post]]></title>
-            <link>https://www.puntadelanza.eu/IFCT0109/blog/long-blog-post</link>
-            <guid>https://www.puntadelanza.eu/IFCT0109/blog/long-blog-post</guid>
+            <title><![CDATA[Primera Lección]]></title>
+            <link>https://www.puntadelanza.eu/IFCT0109/blog/primera-leccion</link>
+            <guid>https://www.puntadelanza.eu/IFCT0109/blog/primera-leccion</guid>
             <pubDate>Mon, 20 Mar 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Sumario Primero]]></description>
             <content:encoded><![CDATA[<p>Sumario Primero</p><p>Post despues.</p>]]></content:encoded>

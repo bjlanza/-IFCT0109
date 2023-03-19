@@ -8,9 +8,9 @@
     <subtitle>IFCT0109 Blog</subtitle>
     <icon>https://www.puntadelanza.eu/IFCT0109/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Long Blog Post]]></title>
-        <id>https://www.puntadelanza.eu/IFCT0109/blog/long-blog-post</id>
-        <link href="https://www.puntadelanza.eu/IFCT0109/blog/long-blog-post"/>
+        <title type="html"><![CDATA[Primera Lección]]></title>
+        <id>https://www.puntadelanza.eu/IFCT0109/blog/primera-leccion</id>
+        <link href="https://www.puntadelanza.eu/IFCT0109/blog/primera-leccion"/>
         <updated>2023-03-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Sumario Primero]]></summary>
         <content type="html"><![CDATA[<p>Sumario Primero</p><p>Post despues.</p>]]></content>

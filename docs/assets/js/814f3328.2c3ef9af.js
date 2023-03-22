@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcyberdocs=self.webpackChunkcyberdocs||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Primera Lecci\xf3n","permalink":"/IFCT0109/blog/primera-leccion"},{"title":"Bienvenida","permalink":"/IFCT0109/blog/bienvenida"}]}')}}]);

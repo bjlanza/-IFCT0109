@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.puntadelanza.eu/IFCT0109/blog</id>
+    <id>https://www.puntadelanza.eu/blog</id>
     <title>IFCT0109 Blog</title>
     <updated>2023-03-20T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://www.puntadelanza.eu/IFCT0109/blog"/>
+    <link rel="alternate" href="https://www.puntadelanza.eu/blog"/>
     <subtitle>IFCT0109 Blog</subtitle>
-    <icon>https://www.puntadelanza.eu/IFCT0109/img/favicon.ico</icon>
+    <icon>https://www.puntadelanza.eu/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Primera Lección]]></title>
-        <id>https://www.puntadelanza.eu/IFCT0109/blog/primera-leccion</id>
-        <link href="https://www.puntadelanza.eu/IFCT0109/blog/primera-leccion"/>
+        <id>https://www.puntadelanza.eu/blog/primera-leccion</id>
+        <link href="https://www.puntadelanza.eu/blog/primera-leccion"/>
         <updated>2023-03-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Sumario Primero]]></summary>
         <content type="html"><![CDATA[<p>Sumario Primero</p><p>Post despues.</p>]]></content>
@@ -23,8 +23,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Bienvenida]]></title>
-        <id>https://www.puntadelanza.eu/IFCT0109/blog/bienvenida</id>
-        <link href="https://www.puntadelanza.eu/IFCT0109/blog/bienvenida"/>
+        <id>https://www.puntadelanza.eu/blog/bienvenida</id>
+        <link href="https://www.puntadelanza.eu/blog/bienvenida"/>
         <updated>2021-08-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[En la era digital en la que vivimos, la ciberseguridad se ha convertido en un tema de importancia crítica para individuos, empresas y gobiernos por igual. Los avances tecnológicos han traído innumerables beneficios en términos de eficiencia, comunicación y acceso a la información, pero también han creado nuevas oportunidades para ciberdelincuentes que buscan explotar vulnerabilidades en sistemas y redes.]]></summary>
         <content type="html"><![CDATA[<p>En la era digital en la que vivimos, la ciberseguridad se ha convertido en un tema de importancia crítica para individuos, empresas y gobiernos por igual. Los avances tecnológicos han traído innumerables beneficios en términos de eficiencia, comunicación y acceso a la información, pero también han creado nuevas oportunidades para ciberdelincuentes que buscan explotar vulnerabilidades en sistemas y redes.</p><p>La seguridad cibernética implica la protección de dispositivos electrónicos, redes y datos de accesos no autorizados, daños o manipulación maliciosa. Las amenazas en línea pueden ser diversas, desde ataques de malware y phishing hasta intrusiones cibernéticas de alto nivel, lo que puede resultar en la pérdida de información confidencial y datos financieros, la interrupción de la operación de las empresas e incluso la exposición de la seguridad nacional.</p><p>Por esta razón, la ciberseguridad es una preocupación crucial en la actualidad y debe ser una prioridad en todos los niveles, desde los individuos hasta las grandes corporaciones y los gobiernos. En este blog, exploraremos en profundidad la importancia de la ciberseguridad y por qué debemos estar constantemente vigilantes y tomar medidas para proteger nuestras actividades y datos en línea.</p>]]></content>

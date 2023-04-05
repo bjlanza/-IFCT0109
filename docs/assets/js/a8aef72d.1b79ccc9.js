@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcyberdocs=self.webpackChunkcyberdocs||[]).push([[4063],{729:e=>{e.exports=JSON.parse('{"label":"documentaci\xf3n","permalink":"/IFCT0109/blog/tags/documentacion","allTagsPath":"/IFCT0109/blog/tags","count":1}')}}]);

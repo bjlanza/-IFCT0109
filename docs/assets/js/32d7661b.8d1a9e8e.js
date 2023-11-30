@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcyberdocs=self.webpackChunkcyberdocs||[]).push([[370],{3092:e=>{e.exports=JSON.parse('{"permalink":"/IFCT0109/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

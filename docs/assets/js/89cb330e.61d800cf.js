@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcyberdocs=self.webpackChunkcyberdocs||[]).push([[4022],{6982:e=>{e.exports=JSON.parse('{"permalink":"/IFCT0109/blog/tags/malware","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
